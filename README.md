@@ -1,5 +1,5 @@
 # Python: Part 2
-A continuación se muestra un orden recomendado de los temas que uno debe aprender si quiere saber de Python. El orden está basado en las páginas [W3Schools](https://www.w3schools.com/python/default.asp) y [Developer Roadmap](https://roadmap.sh/python):
+A continuación se muestra un orden recomendado de los temas que uno debe aprender si quiere saber de Python. El orden está basado en las páginas [W3Schools](https://www.w3schools.com/python/default.asp) y [Developer Roadmaps](https://roadmap.sh/python):
 
 1. [Modules](https://mgdacc.github.io/python-modules/)
 2. [A Common Problem With Custom Modules](https://mgdacc.github.io/python-if-name-equals-main/)
