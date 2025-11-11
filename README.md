@@ -4,7 +4,7 @@ A continuación se muestra un orden recomendado de los temas que uno debe aprend
 1. [Modules](https://mgdacc.github.io/python-modules/)
 2. [A Common Problem With Custom Modules](https://mgdacc.github.io/python-if-name-equals-main/)
 3. [Packages](https://mgdacc.github.io/python-custom-packages/)
-4. [Init File](https://mgdacc.github.io/python-init/)
+4. [The Init File](https://mgdacc.github.io/python-init/)
 5. [Package Managers](https://mgdacc.github.io/python-package-managers/)
 6. [Virtual Enviroments](https://mgdacc.github.io/python-virtual-enviroments/)
 7. [Lambdas](https://mgdacc.github.io/python-lambdas/)
