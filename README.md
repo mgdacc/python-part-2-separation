@@ -2,7 +2,7 @@
 A continuación se muestra un orden recomendado de los temas que uno debe aprender si quiere saber de Python. El orden está basado en las páginas [W3Schools](https://www.w3schools.com/python/default.asp) y [Developer Roadmap](https://roadmap.sh/python):
 
 1. [Modules](https://mgdacc.github.io/python-modules/)
-2. [```if __name__ == "__main__"```](https://mgdacc.github.io/python-if-name-equals-main/)
+2. [A Common Problem With Custom Modules](https://mgdacc.github.io/python-if-name-equals-main/)
 3. [Package Managers](https://mgdacc.github.io/python-package-managers/)
 4. [Virtual Enviroments](https://mgdacc.github.io/python-virtual-enviroments/)
 5. [Lambdas](https://mgdacc.github.io/python-lambdas/)
